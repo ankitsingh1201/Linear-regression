@@ -6,5 +6,3 @@
 3. Implement PREDICT-SIMPLE-LINREG and calculate the points for each training example in matrix A.
 4. Plot the training points from matrix A and predicted values in the form of line graph.
 5. In the end use numpy.linalg lstsq to replace step 2 for learning values of β0 and β1
-# Algorithm:
-![Linear regression least squares](Linear regression least squares.png)
